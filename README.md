@@ -1,8 +1,8 @@
-# FoodMini 🍽️
+# FoodVision MINI 🍽️
 
 ## Overview
 
-**FoodMini** is the final product of a deep learning experiment conducted as part of the [*PyTorch Course — Chapter 7 notebook*](https://github.com/youssef-omarrr/Machine-and-deep-learning/tree/main/PyTorch%20Course/Chapter%207). The full workflow—including model creation, training, evaluation, and experiment tracking—was developed within that notebook. This standalone project provides the trained model and testing script for food image classification using subsets of the [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/), focusing on three classes: pizza, steak, and sushi. The goal was to compare various training setups (e.g., different models, data proportions, and epoch counts) to find an optimal solution under limited resources. The best-performing configuration—EfficientNetB0 trained on 20% of the dataset for 10 epochs—achieved over **94% accuracy** on the test set.
+**FoodVision MINI** is the final product of a deep learning experiment conducted as part of the [*PyTorch Course — Chapter 7 notebook*](https://github.com/youssef-omarrr/Machine-and-deep-learning/tree/main/PyTorch%20Course/Chapter%207). The full workflow—including model creation, training, evaluation, and experiment tracking—was developed within that notebook. This standalone project provides the trained model and testing script for food image classification using subsets of the [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/), focusing on three classes: pizza, steak, and sushi. The goal was to compare various training setups (e.g., different models, data proportions, and epoch counts) to find an optimal solution under limited resources. The best-performing configuration—EfficientNetB0 trained on 20% of the dataset for 10 epochs—achieved over **94% accuracy** on the test set.
 
 ## Results Summary
 
@@ -17,7 +17,7 @@
 ## Project Structure
 
 ```
-FoodMini/
+FoodVision_MINI/
 │
 ├── going_modular/                      # Modular codebase for model architecture, training, and utility functions
 ├── TEST_IMGS/                          # Folder containing test images for model evaluation
