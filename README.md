@@ -6,8 +6,13 @@
 
 ## Results Summary
 
-![accuracy graph](image.png)
-![losses graph](image-1.png)
+![accuracy graph](assets/image.png)
+![losses graph](assets/image-1.png)
+
+## Sample outputs
+![alt text](assets/image-2.png)
+![alt text](assets/image-3.png)
+![alt text](assets/image-4.png)
 
 ## Project Structure
 
